@@ -1,4 +1,4 @@
 Try not one hot encoding
 Try hyperplane cuts in OCT
-regression on the time to finish, sorting to determine placement
+regression on the time to finish, sorting to determine placement, include and don't include position 0
 split on years
